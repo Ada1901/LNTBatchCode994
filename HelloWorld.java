@@ -6,5 +6,6 @@ public static void main(String [] args){
 	int b=15;
 	String c="Adarsh";
 	int c=15;
+	int d=45;
 }
 }
