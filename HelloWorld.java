@@ -5,6 +5,6 @@ public static void main(String [] args){
 	int a=10;
 	int b=15;
 	String c="Adarsh";
-	int c=17;
+	int c=15;
 }
 }
